@@ -1,0 +1,5 @@
+{
+	"ip":"privatesmp1224.aternos.me",
+	"port": "57074",
+	"name": "afkbot"
+}
